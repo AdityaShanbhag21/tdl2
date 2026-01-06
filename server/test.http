@@ -1,0 +1,21 @@
+### Get all tasks
+GET http://localhost:5000/api/tasks
+
+### Create a new task
+POST http://localhost:5000/api/tasks
+Content-Type: application/json
+
+{
+    "text": "Build the backend engine"
+}
+
+### Update a task (Replace <ID> with an actual ID from the GET request)
+PATCH http://localhost:5000/api/tasks/<ID_HERE>
+Content-Type: application/json
+
+{
+    "completed": true
+}
+
+### Delete a task (Replace <ID> with an actual ID)
+DELETE http://localhost:5000/api/tasks/<ID_HERE>
