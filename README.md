@@ -2,6 +2,10 @@
 
 A clean, simple, and user-friendly **Todo List application** designed to help users organize tasks, boost productivity, and stay focused.
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
+
 ---
 ##  Features
 
