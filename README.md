@@ -6,7 +6,6 @@ A clean, simple, and user-friendly **Todo List application** designed to help us
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 
----
 ##  Features
 
 * Add new tasks effortlessly
@@ -16,15 +15,14 @@ A clean, simple, and user-friendly **Todo List application** designed to help us
 * View pending vs completed tasks
 * Clean and minimal UI for better user experience
 
----
+
 ##  Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript / React
+* **Frontend:** HTML, CSS, React.js, Axios.
 * **Backend:** Node.js / Express 
 * **Database:** Local Storage / MongoDB 
 * **Version Control:** Git & GitHub
 
----
 
 ##  Project Structure
 
@@ -38,7 +36,6 @@ Todo-List-App/
 └── assets/
 ```
 
----
 
 ##  Installation & Setup
 
@@ -58,7 +55,6 @@ Todo-List-App/
 
    * Open `index.html` in your browser
 
----
 
 ##  Learning Outcomes
 
@@ -68,7 +64,6 @@ Todo-List-App/
 * Writing clean, readable code
 * Building real-world beginner projects
 
----
 
 ##  Future Enhancements
 
@@ -78,7 +73,6 @@ Todo-List-App/
 *  Responsive & mobile-first design
 *  Dark mode support
 
----
 
 ##  Contributing
 
@@ -88,10 +82,8 @@ Contributions are welcome! Feel free to:
 * Create a new branch
 * Submit a pull request
 
----
 
 ## License
 
 This project is licensed under the **MIT License**.
 
----
