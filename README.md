@@ -37,25 +37,6 @@ Todo-List-App/
 ```
 
 
-##  Installation & Setup
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/your-username/todo-list-app.git
-   ```
-
-2. **Navigate to the project directory**
-
-   ```bash
-   cd todo-list-app
-   ```
-
-3. **Run the app**
-
-   * Open `index.html` in your browser
-
-
 ##  Learning Outcomes
 
 * Understanding CRUD operations
